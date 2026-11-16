@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "paperName": "photo_realistic_single_image_super_resolution_using_a_generative_adversarial_network",
+  "title": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+  "authors": ["Christian Ledig", "Lucas Theis", "Ferenc Huszár", "Jose Caballero", "Andrew Cunningham", "Alejandro Acosta", "Andrew Aitken", "Alykhan Tejani", "Johannes Totz", "Zehan Wang", "Wenzhe Shi"],
+  "year": 2017,
+  "venue": "CVPR",
+  "paperUrl": "https://arxiv.org/abs/1609.04802",
+  "participants": [{ "name": "后台佳彤116" }],
+  "topics": ["计算机视觉", "超分辨率", "生成对抗网络"],
+  "skillVersion": "1.0.0",
+  "status": "review",
+  "entry": "index.html",
+  "version": "houjiatong1116",
+  "versionDate": "2026-11-16"
+}
